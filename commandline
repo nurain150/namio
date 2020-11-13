@@ -1,0 +1,7 @@
+Apkdecompile:
+apktool -d  nameofapp.apk
+Dex2jar:
+d2j-dex2jar classes.dex
+am(activity manager) :
+adb shell am start -W -a "android.intent.action.VIEW" -d "oauth://final/uri=https://github.website.url" com.hacker101.oauth
+.I won't teach how to install this tools.

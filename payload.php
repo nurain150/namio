@@ -10,3 +10,5 @@
     </script>
   </body>
 </html>
+<!this is a flag that is exposed in the hackerone CTF!/>
+The method getFlagPath had been exposed in source code.
